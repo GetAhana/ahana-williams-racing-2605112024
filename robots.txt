@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-williams-racing-2605102200.netlify.app/sitemap.xml
