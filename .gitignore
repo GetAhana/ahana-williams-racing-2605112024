@@ -1,0 +1,27 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment — never commit
+.env
+.env.*
+!.env.example
+
+# Dependencies (if tooling runs inside this tier folder)
+node_modules/
+.npm/
+
+# Build output
+dist/
+.cache/
+.netlify/
+
+# Editor — personal (paths under this tier only)
+.vscode/
+.idea/
+*.swp
